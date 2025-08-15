@@ -49,12 +49,8 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
-  - id: "baidu"
-    name: "百度热搜"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
-  - id: "thepaper"
-    name: "澎湃新闻"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
   - id: "cls-hot"
@@ -67,3 +63,9 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+   - id: "v2ex"
+    name: "V2EX"
+  - id: "juejin"
+    name: "稀土掘金"
+  - id: "ithome"
+    name: "IT之家"
