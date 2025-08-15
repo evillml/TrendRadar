@@ -24,7 +24,7 @@ crawler:
 #   • 适用场景：避免重复信息干扰
 
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -49,8 +49,6 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
@@ -61,8 +59,6 @@ platforms:
     name: "bilibili 热搜"
   - id: "cls-hot"
     name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
   - id: "tieba"
     name: "贴吧"
   - id: "weibo"
