@@ -63,7 +63,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-   - id: "v2ex"
+  - id: "v2ex"
     name: "V2EX"
   - id: "juejin"
     name: "稀土掘金"
