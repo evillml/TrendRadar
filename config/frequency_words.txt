@@ -1,21 +1,9 @@
-智元
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-特斯拉
-马斯克
-
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
-claude
-Anthropic
+Intel
 
 iphone
 ipad
@@ -23,22 +11,10 @@ mac
 ios
 
 ai
-!gai
-人工智能
-
-国产
-中国
-
-美国
-日本
-韩国
 
 科技
 
-水电站
-雅鲁藏布江
+DIY
 
-新质生产力
-
-月球
-宇宙
+DOTA2
+TI14
